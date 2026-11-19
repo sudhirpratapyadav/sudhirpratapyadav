@@ -5,10 +5,10 @@ I am a robotics engineer and a PhD candidate at IIT Jodhpur. I work on manipulat
 **Recent work**
 
 - [anchorflow-vio](https://github.com/sudhirpratapyadav/anchorflow-vio): monocular visual-inertial odometry based on Basalt, evaluated on the LaMAria benchmark.
-- Stereo-inertial SLAM on a Jetson Nano with a RealSense D455, with loop closure, dense mapping and relocalisation.
-- Sim-to-real manipulation: camera policies trained in MuJoCo with a Gaussian-splat scan of the lab and run on a real UR5.
-- Continual learning for manipulation in [mjlab](https://github.com/sudhirpratapyadav/mjlab): a benchmark of 37 tasks and distillation of task policies into one network.
-- A 3D-printed quadruped: [CAD](https://github.com/sudhirpratapyadav/quad_cad), RL locomotion and transfer to the real robot.
+- Stereo-inertial SLAM on a Jetson Nano with a RealSense D455, with loop closure, dense mapping and relocalisation ([project page](https://sudhirpratapyadav.github.io/projects/slam-vio/)).
+- Sim-to-real manipulation: camera policies trained in MuJoCo with a Gaussian-splat scan of the lab and run on a real UR5 ([project page](https://sudhirpratapyadav.github.io/projects/sim-to-real/)).
+- Continual learning for manipulation in [mjlab](https://github.com/sudhirpratapyadav/mjlab): a benchmark of 37 tasks and distillation of task policies into one network ([project page](https://sudhirpratapyadav.github.io/projects/continual-learning/)).
+- A 3D-printed quadruped: [CAD](https://github.com/sudhirpratapyadav/quad_cad), RL locomotion and transfer to the real robot ([project page](https://sudhirpratapyadav.github.io/projects/quadruped/)).
 - [vani](https://github.com/sudhirpratapyadav/vani): voice dictation for Linux.
 
 **Older projects**
